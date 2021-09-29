@@ -30,7 +30,7 @@ workflows:
     publishing:
      app_store_connect:                  # For iOS or macOS app
        apple_id: jowett.kim@gmail.com        # Email address used for login
-       password: gusm-zgqj-vywu-lzdb # App-specific password
+       password: vzhg-fkxz-kkua-hobx # App-specific password
      email:
         recipients:
           - jowett.kim@gmail.com
